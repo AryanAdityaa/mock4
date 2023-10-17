@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="classes" name="Failed suite [Suite1]" guice-stage="DEVELOPMENT">
+  <test thread-count="2" parallel="classes" name="ChromeTest(failed)">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="TestNgadda.AddaApp">
+        <methods>
+          <include name="afterclass"/>
+          <include name="SigninLogout"/>
+          <include name="loginSignup"/>
+          <include name="Banking"/>
+          <include name="Railways"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- TestNgadda.AddaApp -->
+      <class name="TestNgadda.FooterElement">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="footerSection"/>
+          <include name="signin"/>
+          <include name="EbookOnFooter"/>
+          <include name="loginSignup"/>
+          <include name="afterclass"/>
+        </methods>
+      </class> <!-- TestNgadda.FooterElement -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

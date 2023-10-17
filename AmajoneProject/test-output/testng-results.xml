@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="5" failed="0" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-15T19:12:52 IST" name="Suite6" finished-at="2023-10-15T19:14:18 IST" duration-ms="85977">
+    <groups>
+    </groups>
+    <test started-at="2023-10-15T19:12:52 IST" name="EdgeTest" finished-at="2023-10-15T19:13:41 IST" duration-ms="48236">
+      <class name="TestNGPack.AmazonNg">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:TestNGPack.AmazonNg@75d4a5c2]" started-at="2023-10-15T19:12:52 IST" name="launchBrowser" finished-at="2023-10-15T19:12:57 IST" duration-ms="4784" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="CreatePomClassObject()[pri:0, instance:TestNGPack.AmazonNg@75d4a5c2]" started-at="2023-10-15T19:13:04 IST" name="CreatePomClassObject" finished-at="2023-10-15T19:13:04 IST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatePomClassObject -->
+        <test-method is-config="true" signature="homeAmazon()[pri:0, instance:TestNGPack.AmazonNg@75d4a5c2]" started-at="2023-10-15T19:13:04 IST" name="homeAmazon" finished-at="2023-10-15T19:13:12 IST" duration-ms="7570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeAmazon -->
+        <test-method signature="test1()[pri:0, instance:TestNGPack.AmazonNg@75d4a5c2]" started-at="2023-10-15T19:13:12 IST" name="test1" finished-at="2023-10-15T19:13:27 IST" duration-ms="15600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNGPack.AmazonNg@75d4a5c2]" started-at="2023-10-15T19:13:27 IST" name="afterMethod" finished-at="2023-10-15T19:13:30 IST" duration-ms="2439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="homeAmazon()[pri:0, instance:TestNGPack.AmazonNg@75d4a5c2]" started-at="2023-10-15T19:13:30 IST" name="homeAmazon" finished-at="2023-10-15T19:13:31 IST" duration-ms="982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeAmazon -->
+        <test-method signature="test4()[pri:0, instance:TestNGPack.AmazonNg@75d4a5c2]" started-at="2023-10-15T19:13:31 IST" name="test4" finished-at="2023-10-15T19:13:38 IST" duration-ms="7628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNGPack.AmazonNg@75d4a5c2]" started-at="2023-10-15T19:13:38 IST" name="afterMethod" finished-at="2023-10-15T19:13:40 IST" duration-ms="1387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="ClearObject()[pri:0, instance:TestNGPack.AmazonNg@75d4a5c2]" started-at="2023-10-15T19:13:40 IST" name="ClearObject" finished-at="2023-10-15T19:13:40 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearObject -->
+        <test-method is-config="true" signature="afterdem()[pri:0, instance:TestNGPack.AmazonNg@75d4a5c2]" started-at="2023-10-15T19:13:40 IST" name="afterdem" finished-at="2023-10-15T19:13:40 IST" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterdem -->
+      </class> <!-- TestNGPack.AmazonNg -->
+      <class name="TestNGPack.BestSeller">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:TestNGPack.BestSeller@36ebc363]" started-at="2023-10-15T19:12:57 IST" name="launchBrowser" finished-at="2023-10-15T19:13:04 IST" duration-ms="6892" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="CreatePomObject()[pri:0, instance:TestNGPack.BestSeller@36ebc363]" started-at="2023-10-15T19:13:04 IST" name="CreatePomObject" finished-at="2023-10-15T19:13:04 IST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatePomObject -->
+        <test-method is-config="true" signature="homeAmazon()[pri:0, instance:TestNGPack.BestSeller@36ebc363]" started-at="2023-10-15T19:13:04 IST" name="homeAmazon" finished-at="2023-10-15T19:13:09 IST" duration-ms="5259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeAmazon -->
+        <test-method signature="BestSellerBook()[pri:0, instance:TestNGPack.BestSeller@36ebc363]" started-at="2023-10-15T19:13:09 IST" name="BestSellerBook" finished-at="2023-10-15T19:13:23 IST" duration-ms="13476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BestSellerBook -->
+        <test-method is-config="true" signature="ClaerObject()[pri:0, instance:TestNGPack.BestSeller@36ebc363]" started-at="2023-10-15T19:13:23 IST" name="ClaerObject" finished-at="2023-10-15T19:13:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClaerObject -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestNGPack.BestSeller@36ebc363]" started-at="2023-10-15T19:13:40 IST" name="afterClass" finished-at="2023-10-15T19:13:41 IST" duration-ms="442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestNGPack.BestSeller -->
+    </test> <!-- EdgeTest -->
+    <test started-at="2023-10-15T19:13:41 IST" name="ChromeTest" finished-at="2023-10-15T19:14:18 IST" duration-ms="37630">
+      <class name="TestNGPack.AmazonNg">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:TestNGPack.AmazonNg@3bf7ca37]" started-at="2023-10-15T19:13:41 IST" name="launchBrowser" finished-at="2023-10-15T19:13:42 IST" duration-ms="1601" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="homeAmazon()[pri:0, instance:TestNGPack.AmazonNg@3bf7ca37]" started-at="2023-10-15T19:13:47 IST" name="homeAmazon" finished-at="2023-10-15T19:13:50 IST" duration-ms="3044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeAmazon -->
+        <test-method is-config="true" signature="CreatePomClassObject()[pri:0, instance:TestNGPack.AmazonNg@3bf7ca37]" started-at="2023-10-15T19:13:47 IST" name="CreatePomClassObject" finished-at="2023-10-15T19:13:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatePomClassObject -->
+        <test-method signature="test1()[pri:0, instance:TestNGPack.AmazonNg@3bf7ca37]" started-at="2023-10-15T19:13:50 IST" name="test1" finished-at="2023-10-15T19:14:03 IST" duration-ms="12389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNGPack.AmazonNg@3bf7ca37]" started-at="2023-10-15T19:14:03 IST" name="afterMethod" finished-at="2023-10-15T19:14:08 IST" duration-ms="5098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="homeAmazon()[pri:0, instance:TestNGPack.AmazonNg@3bf7ca37]" started-at="2023-10-15T19:14:08 IST" name="homeAmazon" finished-at="2023-10-15T19:14:11 IST" duration-ms="3380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeAmazon -->
+        <test-method signature="test4()[pri:0, instance:TestNGPack.AmazonNg@3bf7ca37]" started-at="2023-10-15T19:14:11 IST" name="test4" finished-at="2023-10-15T19:14:16 IST" duration-ms="5206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNGPack.AmazonNg@3bf7ca37]" started-at="2023-10-15T19:14:16 IST" name="afterMethod" finished-at="2023-10-15T19:14:18 IST" duration-ms="1572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="ClearObject()[pri:0, instance:TestNGPack.AmazonNg@3bf7ca37]" started-at="2023-10-15T19:14:18 IST" name="ClearObject" finished-at="2023-10-15T19:14:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearObject -->
+        <test-method is-config="true" signature="afterdem()[pri:0, instance:TestNGPack.AmazonNg@3bf7ca37]" started-at="2023-10-15T19:14:18 IST" name="afterdem" finished-at="2023-10-15T19:14:18 IST" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterdem -->
+      </class> <!-- TestNGPack.AmazonNg -->
+      <class name="TestNGPack.BestSeller">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:TestNGPack.BestSeller@79079097]" started-at="2023-10-15T19:13:42 IST" name="launchBrowser" finished-at="2023-10-15T19:13:47 IST" duration-ms="5008" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="CreatePomObject()[pri:0, instance:TestNGPack.BestSeller@79079097]" started-at="2023-10-15T19:13:47 IST" name="CreatePomObject" finished-at="2023-10-15T19:13:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatePomObject -->
+        <test-method is-config="true" signature="homeAmazon()[pri:0, instance:TestNGPack.BestSeller@79079097]" started-at="2023-10-15T19:13:47 IST" name="homeAmazon" finished-at="2023-10-15T19:13:50 IST" duration-ms="3046" status="FAIL">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=117.0.2045.60)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [476d4d6d4d0b18390b1c4ddb9a36ccc1, get {url=https://www.amazon.in}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 117.0.2045.60, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:65142}, msedge: {msedgedriverVersion: 117.0.2045.60 (a31cef5dc4c1..., userDataDir: C:\Users\Aditya\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65142/devtoo..., se:cdpVersion: 117.0.2045.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 476d4d6d4d0b18390b1c4ddb9a36ccc1]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=117.0.2045.60)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [476d4d6d4d0b18390b1c4ddb9a36ccc1, get {url=https://www.amazon.in}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 117.0.2045.60, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:65142}, msedge: {msedgedriverVersion: 117.0.2045.60 (a31cef5dc4c1..., userDataDir: C:\Users\Aditya\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65142/devtoo..., se:cdpVersion: 117.0.2045.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 476d4d6d4d0b18390b1c4ddb9a36ccc1
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:300)
+at TestNGPack.BestSeller.homeAmazon(BestSeller.java:59)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:810)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:577)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1623)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeAmazon -->
+        <test-method signature="BestSellerBook()[pri:0, instance:TestNGPack.BestSeller@79079097]" started-at="2023-10-15T19:13:50 IST" name="BestSellerBook" finished-at="2023-10-15T19:13:50 IST" duration-ms="0" status="SKIP">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=117.0.2045.60)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [476d4d6d4d0b18390b1c4ddb9a36ccc1, get {url=https://www.amazon.in}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 117.0.2045.60, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:65142}, msedge: {msedgedriverVersion: 117.0.2045.60 (a31cef5dc4c1..., userDataDir: C:\Users\Aditya\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65142/devtoo..., se:cdpVersion: 117.0.2045.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 476d4d6d4d0b18390b1c4ddb9a36ccc1]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=117.0.2045.60)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [476d4d6d4d0b18390b1c4ddb9a36ccc1, get {url=https://www.amazon.in}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 117.0.2045.60, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:65142}, msedge: {msedgedriverVersion: 117.0.2045.60 (a31cef5dc4c1..., userDataDir: C:\Users\Aditya\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65142/devtoo..., se:cdpVersion: 117.0.2045.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 476d4d6d4d0b18390b1c4ddb9a36ccc1
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:300)
+at TestNGPack.BestSeller.homeAmazon(BestSeller.java:59)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:810)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:577)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1623)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BestSellerBook -->
+        <test-method is-config="true" signature="ClaerObject()[pri:0, instance:TestNGPack.BestSeller@79079097]" started-at="2023-10-15T19:13:50 IST" name="ClaerObject" finished-at="2023-10-15T19:13:50 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClaerObject -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestNGPack.BestSeller@79079097]" started-at="2023-10-15T19:14:18 IST" name="afterClass" finished-at="2023-10-15T19:14:18 IST" duration-ms="16" status="FAIL">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: MicrosoftEdge=117.0.2045.60)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [476d4d6d4d0b18390b1c4ddb9a36ccc1, close {}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 117.0.2045.60, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:65142}, msedge: {msedgedriverVersion: 117.0.2045.60 (a31cef5dc4c1..., userDataDir: C:\Users\Aditya\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65142/devtoo..., se:cdpVersion: 117.0.2045.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 476d4d6d4d0b18390b1c4ddb9a36ccc1]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: MicrosoftEdge=117.0.2045.60)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [476d4d6d4d0b18390b1c4ddb9a36ccc1, close {}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 117.0.2045.60, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:65142}, msedge: {msedgedriverVersion: 117.0.2045.60 (a31cef5dc4c1..., userDataDir: C:\Users\Aditya\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65142/devtoo..., se:cdpVersion: 117.0.2045.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 476d4d6d4d0b18390b1c4ddb9a36ccc1
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:591)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:405)
+at TestNGPack.BestSeller.afterClass(BestSeller.java:89)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325)
+at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:663)
+at org.testng.TestRunner.afterRun(TestRunner.java:933)
+at org.testng.TestRunner.run(TestRunner.java:624)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestNGPack.BestSeller -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite6 -->
+</testng-results>
